@@ -98,7 +98,6 @@
 <br>
 
 <h1 align="center">Official Social Media</h1>
-=============================================
 
 <p align="center"><img src="https://1.bp.blogspot.com/-VgeE1MjanrE/XuFF2iuufxI/AAAAAAAAOIE/DPUU6oIUpL4purpAYrtqh0zLLmu4OFxSwCLcBGAsYHQ/s320/IMG-20200516-WA0007.jpg" width="200"></p>
 
