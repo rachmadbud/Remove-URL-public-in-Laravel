@@ -91,7 +91,6 @@
     {
         return app('url')->asset("public/". $path, $secure);
     }
-}
 ```
 
 <br>
