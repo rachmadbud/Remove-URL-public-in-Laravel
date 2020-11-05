@@ -79,7 +79,7 @@
 </h3>
 
 ```php
-    if (! function_exists('asset')) {
+ if (! function_exists('asset')) {
      /**
      * Generate an asset path for the  application.
      *
@@ -91,6 +91,7 @@
     {
         return app('url')->asset("public/". $path, $secure);
     }
+}
 ```
 
 <br>
