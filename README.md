@@ -1,4 +1,4 @@
-# Remove /public URL in  **Laravel**
+# Remove /public URL in  **Laravel 7 and below**
 --------------------------------
 <h3>
 <ol> 
